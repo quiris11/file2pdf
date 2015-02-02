@@ -12,7 +12,6 @@ import shutil
 import argparse
 import unicodedata
 import time
-import subprocess
 
 home = os.path.expanduser("~")
 parser = argparse.ArgumentParser()
